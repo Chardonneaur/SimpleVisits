@@ -1,7 +1,8 @@
 # Piwik SimpleVisits Plugin
 
-## Description
+## Documentation en Français
 
+### Description
 SimpleVisits est un plugin Piwik simple mais efficace, il vous permet de jeter un coup d'oeil sur votre nombre de visites de l'afficher clairement sur votre tableau de bord.
 
 ### Installation
@@ -12,8 +13,9 @@ Le nom du dossier contenant le projet doit s'appeler exactement "SimplePlugin" e
 
 
 
+## Documentation in English
 
-## Description
+### Description
 
 SimpleVisits is a simple but effective Piwik plugin, it allows you to take a look at your number of visits to display it clearly on your dashboard.
 
