@@ -1,6 +1,6 @@
 {
     "name": "SimpleVisits",
-    "description": "Show simply your visits on your dashboard",
+    "description": "Affichez clairement et simplement votre nombre de visites sur votre tableau de bord !",
     "version": "0.1.0",
     "theme": false,
     "require": {
@@ -8,9 +8,9 @@
     },
     "authors": [
         {
-            "name": "Piwik",
+            "name": "Ronan Chardonneau",
             "email": "",
-            "homepage": ""
+            "homepage": "https://twitter.com/chardonneaur"
         }
     ],
     "support": {
@@ -25,5 +25,5 @@
     },
     "homepage": "",
     "license": "GPL v3+",
-    "keywords": []
+    "keywords": ["SimpleVisits", "Visits", "Simple", "Show", "Counter"]
 }
